@@ -39,7 +39,7 @@
     "11:59:56": "global.say RESTART IN 4 SECONDS",
     "11:59:57": "global.say RESTART IN 3 SECONDS",
     "11:59:58": "global.say RESTART IN 2 SECONDS",
-    "11:59:59": "global.say RESTART IN 1 SECONDS"
+    "11:59:59": "global.say RESTART IN 1 SECONDS",
 
     "23:30:00": "global.say RESTART IN 30 MINUTES",
     "23:50:00": "global.say RESTART IN 10 MINUTES",
